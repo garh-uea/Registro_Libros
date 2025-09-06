@@ -1,0 +1,15 @@
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.AssemblyInfoInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.AssemblyInfo.cs
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.csproj.CoreCompileInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.sourcelink.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\bin\Debug\net8.0\Registro_Libros.exe
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\bin\Debug\net8.0\Registro_Libros.deps.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\bin\Debug\net8.0\Registro_Libros.runtimeconfig.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\bin\Debug\net8.0\Registro_Libros.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\bin\Debug\net8.0\Registro_Libros.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\refint\Registro_Libros.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\Registro_Libros.genruntimeconfig.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Segundo Parcial\Práctico 3\Registro_Libros\obj\Debug\net8.0\ref\Registro_Libros.dll
